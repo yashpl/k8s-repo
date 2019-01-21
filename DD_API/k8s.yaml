@@ -4,7 +4,6 @@ metadata:
   name: api
   labels:
     app: datadashboard
-    cheese: stilton
 spec:
   replicas: 1
   selector:
